@@ -1,1 +1,1 @@
-# Graphical evaluation of 3-phase motors
+# Graphical evaluation of 3-phase induction motors
